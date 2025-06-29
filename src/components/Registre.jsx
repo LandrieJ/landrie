@@ -1,5 +1,5 @@
 'use client';
-
+export const dynamic = 'force-dynamic';
 import { useState, useEffect } from 'react';
 import { FaEye, FaEyeSlash, FaPhone, FaArrowLeft, FaDownload, FaStar, FaUserPlus, FaGift } from 'react-icons/fa';
 import Link from 'next/link';
